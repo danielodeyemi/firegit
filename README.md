@@ -3,4 +3,4 @@
 Newest section, new repo, excuse the mess.
 -- Compare this --
 
-Some other content for Conflict
+Just working on a feature! For the Check
